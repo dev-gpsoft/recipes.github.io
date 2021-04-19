@@ -2,7 +2,7 @@
 	{  
 		"name":       "Dosa",   
 		"type":       "main",   
-		"image":      "assets/images/si.png",
+		"image":      "assets/si.png",
 		"recipe":     {
 			
 		}
@@ -11,130 +11,140 @@
 	{  
 		"name":       "Masala Dosa",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/masala_dosa.png" 
     } ,
 	{  
 		"name":       "Set Dosa",   
 		"type":      "main",
-		"image":    "assets/images/si.png" 
+		"image":    "assets/set_dosa.png" 
     } ,
 	{  
 		"name":       "Ghee Dosa",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/ghee_dosa.png" 
     },
 	{  
 		"name":       "Ada Dosa",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/ada_dosa.png" 
     },
 	{  
 		"name":       "Ragi Dosa",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/ragi_dosa.png" 
     },
 	{  
 		"name":       "Neer Dosa",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/neer_dosa.png" 
     },
 	{  
 		"name":       "Chappati",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/chappati.png" 
     },
 	{  
 		"name":       "Parotta",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/parotta.png" 
     },
 	{  
 		"name":       "Wheat Parotta",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/wheat_parota.png" 
+    },
+	{  
+		"name":       "Bun Parotta",   
+		"type":      "main",   
+		"image":    "assets/bun_parota.png" 
+    },
+	{  
+		"name":       "Killi Parotta",   
+		"type":      "main",   
+		"image":    "assets/killi_parota.png" 
     },
 	{  
 		"name":       "Poori Masala",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/poori_masala.png" 
     },
 	{  
 		"name":       "Uthappam",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/uthappam.png" 
     },
 	{  
 		"name":       "Onion Uthappam",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/onion_uthappam.png" 
     },
 	{  
 		"name":       "Idli",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/idli.png" 
     },
 		"name":       "Rava Idli",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/rava_idli.png" 
     },
 	{  
 		"name":       "Pongal",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/ven_pongal.png" 
     },
 	{  
 		"name":       "Sweet Pongal",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/pongal.png" 
     },
 	{  
-		"name":       "Idiappam",   
+		"name":       "Idiyappam",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/idliyappam.png" 
     },
 	{  
 		"name":       "Puttu",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/puttu.png" 
+    },
+	{  
+		"name":       "Wheat Puttu",   
+		"type":      "main",   
+		"image":    "assets/wheat_puttu.png" 
     },
 	{  
 		"name":       "Appam",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/appam.png" 
     },
 	{  
-		"name":       "Nice Pathiri",   
+		"name":       "Pathiri",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/pathiri.png" 
     },
 	{  
-		"name":       "Nay Pathiri",   
+		"name":       "Nei Pathiri",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/nei_pathiri.png" 
     },
 	{  
 		"name":       "Rava Upma",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/rava_upma.png" 
     },
 	{  
 		"name":       "Wheat Upma",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/wheat_upma.png" 
     },
 	{  
 		"name":       "Semiya",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/semiya.png" 
     },
 	{  
 		"name":       "Paniyaram",   
 		"type":      "main",   
-		"image":    "assets/images/si.png" 
-    },
-	{  
-		"name":       "Mangalore Buns",   
-		"type":      "main",   
-		"image":    "assets/images/si.png" 
+		"image":    "assets/paniyaram.png" 
     }
 ]
