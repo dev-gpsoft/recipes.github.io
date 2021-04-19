@@ -1,0 +1,127 @@
+[
+	{  
+		"name":       "Dosa",   
+		"type":       "main",   
+		"image":    true 
+    } ,
+	{  
+		"name":       "Masala Dosa",   
+		"type":      "main",   
+		"image":    true 
+    } ,
+	{  
+		"name":       "Set Dosa",   
+		"type":      "main",
+		"image":    true 
+    } ,
+	{  
+		"name":       "Ghee Dosa",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Ada Dosa",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Ragi Dosa",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Neer Dosa",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Chappati",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Parotta",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Wheat Parotta",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Poori",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Uthappam",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Onion Uthappam",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Idli",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Pongal",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Idiappam",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Puttu",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Appam",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Nice Pathiri",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Nay Pathiri",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Rava Upma",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Wheat Upma",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Semiya",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Paniyaram",   
+		"type":      "main",   
+		"image":    true 
+    },
+	{  
+		"name":       "Mangalore Buns",   
+		"type":      "main",   
+		"image":    true 
+    }
+]
