@@ -83,6 +83,7 @@
 		"type":      "main",   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idli.png" 
     },
+	{
 		"name":       "Rava Idli",   
 		"type":      "main",   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/rava_idli.png" 
