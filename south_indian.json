@@ -2,7 +2,11 @@
 	{  
 		"name":       "Dosa",   
 		"type":       "main",   
-		"image":      "assets/images/si.png"
+		"image":      "assets/images/si.png",
+		"recipe":     {
+			
+		}
+
     } ,
 	{  
 		"name":       "Masala Dosa",   
@@ -50,7 +54,7 @@
 		"image":    "assets/images/si.png" 
     },
 	{  
-		"name":       "Poori",   
+		"name":       "Poori Masala",   
 		"type":      "main",   
 		"image":    "assets/images/si.png" 
     },
@@ -69,8 +73,17 @@
 		"type":      "main",   
 		"image":    "assets/images/si.png" 
     },
+		"name":       "Rava Idli",   
+		"type":      "main",   
+		"image":    "assets/images/si.png" 
+    },
 	{  
 		"name":       "Pongal",   
+		"type":      "main",   
+		"image":    "assets/images/si.png" 
+    },
+	{  
+		"name":       "Sweet Pongal",   
 		"type":      "main",   
 		"image":    "assets/images/si.png" 
     },
