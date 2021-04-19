@@ -51,17 +51,17 @@
 	{  
 		"name":       "Wheat Parotta",   
 		"type":      "main",   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/wheat_parota.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/wheat_parotta.png" 
     },
 	{  
 		"name":       "Bun Parotta",   
 		"type":      "main",   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/bun_parota.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/bun_parotta.png" 
     },
 	{  
 		"name":       "Killi Parotta",   
 		"type":      "main",   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/killi_parota.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/killi_parotta.png" 
     },
 	{  
 		"name":       "Poori Masala",   
