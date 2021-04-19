@@ -2,126 +2,126 @@
 	{  
 		"name":       "Dosa",   
 		"type":       "main",   
-		"image":    true 
+		"image":      "assets/images/si.png"
     } ,
 	{  
 		"name":       "Masala Dosa",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     } ,
 	{  
 		"name":       "Set Dosa",   
 		"type":      "main",
-		"image":    true 
+		"image":    "assets/images/si.png" 
     } ,
 	{  
 		"name":       "Ghee Dosa",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Ada Dosa",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Ragi Dosa",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Neer Dosa",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Chappati",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Parotta",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Wheat Parotta",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Poori",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Uthappam",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Onion Uthappam",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Idli",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Pongal",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Idiappam",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Puttu",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Appam",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Nice Pathiri",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Nay Pathiri",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Rava Upma",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Wheat Upma",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Semiya",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Paniyaram",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     },
 	{  
 		"name":       "Mangalore Buns",   
 		"type":      "main",   
-		"image":    true 
+		"image":    "assets/images/si.png" 
     }
 ]
