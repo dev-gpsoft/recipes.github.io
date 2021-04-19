@@ -2,7 +2,7 @@
 	{  
 		"name":       "Dosa",   
 		"type":       "main",   
-		"image":      "assets/si.png",
+		"image":      "https://dev-gpsoft.github.io/recipes.github.io/assets/si.png",
 		"recipe":     {
 			
 		}
@@ -11,140 +11,140 @@
 	{  
 		"name":       "Masala Dosa",   
 		"type":      "main",   
-		"image":    "assets/masala_dosa.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/masala_dosa.png" 
     } ,
 	{  
 		"name":       "Set Dosa",   
 		"type":      "main",
-		"image":    "assets/set_dosa.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/set_dosa.png" 
     } ,
 	{  
 		"name":       "Ghee Dosa",   
 		"type":      "main",   
-		"image":    "assets/ghee_dosa.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ghee_dosa.png" 
     },
 	{  
 		"name":       "Ada Dosa",   
 		"type":      "main",   
-		"image":    "assets/ada_dosa.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ada_dosa.png" 
     },
 	{  
 		"name":       "Ragi Dosa",   
 		"type":      "main",   
-		"image":    "assets/ragi_dosa.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ragi_dosa.png" 
     },
 	{  
 		"name":       "Neer Dosa",   
 		"type":      "main",   
-		"image":    "assets/neer_dosa.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/neer_dosa.png" 
     },
 	{  
 		"name":       "Chappati",   
 		"type":      "main",   
-		"image":    "assets/chappati.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chappati.png" 
     },
 	{  
 		"name":       "Parotta",   
 		"type":      "main",   
-		"image":    "assets/parotta.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/parotta.png" 
     },
 	{  
 		"name":       "Wheat Parotta",   
 		"type":      "main",   
-		"image":    "assets/wheat_parota.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/wheat_parota.png" 
     },
 	{  
 		"name":       "Bun Parotta",   
 		"type":      "main",   
-		"image":    "assets/bun_parota.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/bun_parota.png" 
     },
 	{  
 		"name":       "Killi Parotta",   
 		"type":      "main",   
-		"image":    "assets/killi_parota.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/killi_parota.png" 
     },
 	{  
 		"name":       "Poori Masala",   
 		"type":      "main",   
-		"image":    "assets/poori_masala.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/poori_masala.png" 
     },
 	{  
 		"name":       "Uthappam",   
 		"type":      "main",   
-		"image":    "assets/uthappam.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/uthappam.png" 
     },
 	{  
 		"name":       "Onion Uthappam",   
 		"type":      "main",   
-		"image":    "assets/onion_uthappam.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/onion_uthappam.png" 
     },
 	{  
 		"name":       "Idli",   
 		"type":      "main",   
-		"image":    "assets/idli.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idli.png" 
     },
 		"name":       "Rava Idli",   
 		"type":      "main",   
-		"image":    "assets/rava_idli.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/rava_idli.png" 
     },
 	{  
 		"name":       "Pongal",   
 		"type":      "main",   
-		"image":    "assets/ven_pongal.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ven_pongal.png" 
     },
 	{  
 		"name":       "Sweet Pongal",   
 		"type":      "main",   
-		"image":    "assets/pongal.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/pongal.png" 
     },
 	{  
 		"name":       "Idiyappam",   
 		"type":      "main",   
-		"image":    "assets/idliyappam.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idliyappam.png" 
     },
 	{  
 		"name":       "Puttu",   
 		"type":      "main",   
-		"image":    "assets/puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
     },
 	{  
 		"name":       "Wheat Puttu",   
 		"type":      "main",   
-		"image":    "assets/wheat_puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/wheat_puttu.png" 
     },
 	{  
 		"name":       "Appam",   
 		"type":      "main",   
-		"image":    "assets/appam.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/appam.png" 
     },
 	{  
 		"name":       "Pathiri",   
 		"type":      "main",   
-		"image":    "assets/pathiri.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/pathiri.png" 
     },
 	{  
 		"name":       "Nei Pathiri",   
 		"type":      "main",   
-		"image":    "assets/nei_pathiri.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/nei_pathiri.png" 
     },
 	{  
 		"name":       "Rava Upma",   
 		"type":      "main",   
-		"image":    "assets/rava_upma.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/rava_upma.png" 
     },
 	{  
 		"name":       "Wheat Upma",   
 		"type":      "main",   
-		"image":    "assets/wheat_upma.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/wheat_upma.png" 
     },
 	{  
 		"name":       "Semiya",   
 		"type":      "main",   
-		"image":    "assets/semiya.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/semiya.png" 
     },
 	{  
 		"name":       "Paniyaram",   
 		"type":      "main",   
-		"image":    "assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     }
 ]
