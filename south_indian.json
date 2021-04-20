@@ -138,6 +138,12 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ulli_theeyal.png" 
     },
 	{  
+		"name":       "Green Gram whole", 
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/green_gram.png" 
+    },
+	{  
 		"name":       "Veg Sides",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/veg_sides.png" 
