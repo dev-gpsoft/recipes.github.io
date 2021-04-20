@@ -129,6 +129,11 @@
 		"name":       "Variety Rice",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/variety_rice.png" 
+    },	
+	{  
+		"name":       "Egg",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/egg.png" 
     },
 	{  
 		"name":       "Biriyani",   
@@ -141,11 +146,10 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_curry.png" 
     },
 	{  
-		"name":       "Egg",   
+		"name":       "Chicken Sides",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/egg.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_sides.png" 
     },
-	
 	{  
 		"name":       "Fish Curry",   
 		"type":      ["main"],   
@@ -156,11 +160,7 @@
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/mutton_curry.png" 
     },
-	{  
-		"name":       "Chicken Sides",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_sides.png" 
-    },
+	
 	{  
 		"name":       "Mutton Sides",   
 		"type":      ["main"],   
