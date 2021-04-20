@@ -3,6 +3,7 @@
 		"name":       "Dosa",   
 		"type":       ["main"],
 		"search":     "yes",
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/dosa.json",
 		"image":      "https://dev-gpsoft.github.io/recipes.github.io/assets/dosa.png"
     },	
 	{  
@@ -14,6 +15,7 @@
 	{  
 		"name":       "Parotta",   
 		"type":      ["main"],   
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/parotta.json",
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/parotta.png" 
     },
 	{  
