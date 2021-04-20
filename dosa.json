@@ -1,0 +1,42 @@
+[
+	{  
+		"name":       "Plain Dosa",   
+		"type":       ["main"],   
+		"image":      "https://dev-gpsoft.github.io/recipes.github.io/assets/dosa.png",
+		"recipe":     {
+			
+		}
+
+    } ,
+	{  
+		"name":       "Masala Dosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/masala_dosa.png" 
+    } ,
+	{  
+		"name":       "Set Dosa",   
+		"type":      ["main"],
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/set_dosa.png" 
+    } ,
+	{  
+		"name":       "Ghee Dosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ghee_dosa.png" 
+    },
+	{  
+		"name":       "Ada Dosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ada_dosa.png" 
+    },
+	{  
+		"name":       "Ragi Dosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ragi_dosa.png" 
+    },
+	{  
+		"name":       "Neer Dosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/neer_dosa.png" 
+    },
+	
+]

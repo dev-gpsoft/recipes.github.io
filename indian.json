@@ -1,0 +1,34 @@
+[
+	
+	{  
+		"name":       "South Indian",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idliyappam.png" 
+    },
+	{  
+		"name":       "North Indian",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idliyappam.png" 
+    },
+	{  
+		"name":       "Tea",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+    },
+	{  
+		"name":       "Snack",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+    },
+	{  
+		"name":       "Juices",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+    },
+	{  
+		"name":       "Ice-Creams",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+    },
+	
+]

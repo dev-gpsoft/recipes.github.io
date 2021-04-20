@@ -3,7 +3,41 @@
 		"name":       "Dosa",   
 		"type":       ["main"],   
 		"image":      "https://dev-gpsoft.github.io/recipes.github.io/assets/dosa.png",
-    },	
+		"recipe":     {
+			
+		}
+
+    } ,
+	{  
+		"name":       "Masala Dosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/masala_dosa.png" 
+    } ,
+	{  
+		"name":       "Set Dosa",   
+		"type":      ["main"],
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/set_dosa.png" 
+    } ,
+	{  
+		"name":       "Ghee Dosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ghee_dosa.png" 
+    },
+	{  
+		"name":       "Ada Dosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ada_dosa.png" 
+    },
+	{  
+		"name":       "Ragi Dosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ragi_dosa.png" 
+    },
+	{  
+		"name":       "Neer Dosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/neer_dosa.png" 
+    },
 	{  
 		"name":       "Chappati",   
 		"type":      ["main"],   
@@ -13,6 +47,21 @@
 		"name":       "Parotta",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/parotta.png" 
+    },
+	{  
+		"name":       "Wheat Parotta",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/wheat_parotta.png" 
+    },
+	{  
+		"name":       "Bun Parotta",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/bun_parotta.png" 
+    },
+	{  
+		"name":       "Killi Parotta",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/killi_parotta.png" 
     },
 	{  
 		"name":       "Poori Masala",   
@@ -40,11 +89,6 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/rava_idli.png" 
     },
 	{  
-		"name":       "Paniyaram",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
-    },
-	{  
 		"name":       "Pongal",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ven_pongal.png" 
@@ -53,11 +97,6 @@
 		"name":       "Sweet Pongal",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/pongal.png" 
-    },
-	{  
-		"name":       "Appam",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/appam.png" 
     },
 	{  
 		"name":       "Idiyappam",   
@@ -73,6 +112,11 @@
 		"name":       "Wheat Puttu",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/wheat_puttu.png" 
+    },
+	{  
+		"name":       "Appam",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/appam.png" 
     },
 	{  
 		"name":       "Pathiri",   
@@ -99,39 +143,26 @@
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/semiya.png" 
     },
-	
+	{  
+		"name":       "Paniyaram",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
 	{  
 		"name":       "Sambar Varities",
+		"varities":   ["Carrot","Drumstick","Raddish","Potato","Sqash","Beans","Big Onion","Snakeguard","Pumpkin"]
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     },
 	{  
 		"name":       "Puli Kulambu",
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
-    },
-	{  
-		"name":       "Veg Sides",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
-    },
-	{  
-		"name":       "Biriyani",   
+		"desc":		  "",
+		"varities":    ["Garlic","Brinjal","Ladiesfinger","Mixed-veg"]
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     },
 	{  
 		"name":       "Chicken Curry",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
-    },
-	{  
-		"name":       "Egg",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
-    },
-	{  
-		"name":       "Varaity Rice",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     },
@@ -146,49 +177,48 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     },
 	{  
-		"name":       "Mutton Gravy",   
+		"name":       "Paniyaram",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     },
 	{  
-		"name":       "Chicken Sides",   
+		"name":       "Paniyaram",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     },
 	{  
-		"name":       "Mutton Sides",   
+		"name":       "Paniyaram",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     },
 	{  
-		"name":       "Fish Sides",   
+		"name":       "Paniyaram",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     },
 	{  
-		"name":       "Prawn",   
+		"name":       "Paniyaram",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     },
 	{  
-		"name":       "Crab",   
+		"name":       "Paniyaram",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     },
 	{  
-		"name":       "Beef",   
+		"name":       "Paniyaram",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     },
 	{  
-		"name":       "Pork",   
+		"name":       "Paniyaram",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     },
 	{  
-		"name":       "Squid",   
+		"name":       "Paniyaram",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     },
-	
 ]

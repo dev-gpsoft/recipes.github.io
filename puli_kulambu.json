@@ -1,0 +1,23 @@
+[
+	{  
+		"name":       "Garlic Puli Kulambu",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
+	{  
+		"name":       "Brinjal Puli Kulambu",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
+	{  
+		"name":       "Ladiesfinger Puli Kulambu",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
+	{  
+		"name":       "Mixed-veg Puli Kulambu",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
+	
+]

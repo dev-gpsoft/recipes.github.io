@@ -1,0 +1,52 @@
+[
+	{  
+		"name":       "Kalyana Sambar",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
+	{  
+		"name":       "Carrot Sambar",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
+	{  
+		"name":       "Drumstick Sambar",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
+	{  
+		"name":       "Raddish Sambar",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
+	{  
+		"name":       "Potato Sambar",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
+	{  
+		"name":       "Beans Sambar",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
+	{  
+		"name":       "Sqash Sambar",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
+	{  
+		"name":       "Pumpkin Sambar",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
+	{  
+		"name":       "Snakeguard Sambar",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
+	{  
+		"name":       "Onion Sambar",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+    },
+]
