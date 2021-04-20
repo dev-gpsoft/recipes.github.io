@@ -116,6 +116,11 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/vathal_kulambu.png" 
     },
 	{  
+		"name":       "Ulli Theeyal",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ulli_theeyal.png" 
+    },
+	{  
 		"name":       "Veg Sides",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/veg_sides.png" 
@@ -139,11 +144,6 @@
 		"name":       "Variety Rice",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/variety_rice.png" 
-    },
-	{  
-		"name":       "Ulli Theeyal",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ulli_theeyal.png" 
     },
 	{  
 		"name":       "Fish Curry",   
