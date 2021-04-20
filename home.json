@@ -20,6 +20,11 @@
 		"name":       "Snack",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/snack.png" 
+    },	
+	{  
+		"name":       "Savory",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/savory.png" 
     },
 	{  
 		"name":       "Juices",   
