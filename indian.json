@@ -3,6 +3,7 @@
 	{  
 		"name":       "South Indian",   
 		"type":      ["main"],   
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/south_indian.json",
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/si.png" 
     },
 	{  
