@@ -18,5 +18,10 @@
 		"name":       "Killi Parotta",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/killi_parotta.png" 
+    },
+	{  
+		"name":       "Kothu Parotta",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kothu_parotta.png" 
     }
 ]
