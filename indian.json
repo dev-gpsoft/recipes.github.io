@@ -3,32 +3,32 @@
 	{  
 		"name":       "South Indian",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idliyappam.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/si.png" 
     },
 	{  
 		"name":       "North Indian",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idliyappam.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ni.png" 
     },
 	{  
 		"name":       "Tea",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/tea.png" 
     },
 	{  
 		"name":       "Snack",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/snack.png" 
     },
 	{  
 		"name":       "Juices",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/juice.png" 
     },
 	{  
 		"name":       "Ice-Creams",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ice-cream.png" 
     }
 	
 ]
