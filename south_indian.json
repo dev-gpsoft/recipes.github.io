@@ -7,17 +7,18 @@
 		"image":      "https://dev-gpsoft.github.io/recipes.github.io/assets/dosa.png"
     },	
 	{  
+		"name":       "Idli",
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/idli.json",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idli.png" 
+    },
+	{  
 		"name":       "Chappati",
 		"search":     "yes",
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chappati.png" 
     },
-	{  
-		"name":       "Parotta",   
-		"type":      ["main"],   
-		"url":       "https://dev-gpsoft.github.io/recipes.github.io/parotta.json",
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/parotta.png" 
-    },
+	
 	{  
 		"name":       "Poori Masala",
 		"search":     "yes",		
@@ -37,10 +38,10 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/onion_uthappam.png" 
     },
 	{  
-		"name":       "Idli",
-		"url":       "https://dev-gpsoft.github.io/recipes.github.io/idli.json",
+		"name":       "Parotta",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idli.png" 
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/parotta.json",
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/parotta.png" 
     },
 	{  
 		"name":       "Paniyaram",
