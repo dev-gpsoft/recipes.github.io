@@ -103,22 +103,27 @@
 	{  
 		"name":       "Sambar Varities",
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/sambar.png" 
     },
 	{  
 		"name":       "Puli Kulambu",
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puli_kulambu.png" 
+    },
+	{  
+		"name":       "Vathal Kulambu",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/vathal_kulambu.png" 
     },
 	{  
 		"name":       "Veg Sides",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/veg_sides.png" 
     },
 	{  
 		"name":       "Biriyani",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/biriyani.png" 
     },
 	{  
 		"name":       "Chicken Curry",   
