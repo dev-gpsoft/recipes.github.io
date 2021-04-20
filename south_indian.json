@@ -1,11 +1,13 @@
 [
 	{  
 		"name":       "Dosa",   
-		"type":       ["main"],   
+		"type":       ["main"],
+		"search":     yes,
 		"image":      "https://dev-gpsoft.github.io/recipes.github.io/assets/dosa.png"
     },	
 	{  
-		"name":       "Chappati",   
+		"name":       "Chappati",
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chappati.png" 
     },
@@ -15,87 +17,104 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/parotta.png" 
     },
 	{  
-		"name":       "Poori Masala",   
+		"name":       "Poori Masala",
+		"search":     yes,		
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/poori_masala.png" 
     },
 	{  
-		"name":       "Uthappam",   
+		"name":       "Uthappam", 
+		"search":     yes,		
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/uthappam.png" 
     },
 	{  
-		"name":       "Onion Uthappam",   
+		"name":       "Onion Uthappam", 
+		"search":     yes,		
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/onion_uthappam.png" 
     },
 	{  
-		"name":       "Idli",   
+		"name":       "Idli",
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idli.png" 
     },
 	{
-		"name":       "Rava Idli",   
+		"name":       "Rava Idli", 
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/rava_idli.png" 
     },
 	{  
-		"name":       "Paniyaram",   
+		"name":       "Paniyaram",
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
     },
 	{  
-		"name":       "Pongal",   
+		"name":       "Pongal", 
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ven_pongal.png" 
     },
 	{  
-		"name":       "Sweet Pongal",   
+		"name":       "Sweet Pongal",
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/pongal.png" 
     },
 	{  
-		"name":       "Appam",   
+		"name":       "Appam",
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/appam.png" 
     },
 	{  
-		"name":       "Idiyappam",   
+		"name":       "Idiyappam", 
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idliyappam.png" 
     },
 	{  
-		"name":       "Puttu",   
+		"name":       "Puttu",
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
     },
 	{  
-		"name":       "Wheat Puttu",   
+		"name":       "Wheat Puttu",  
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/wheat_puttu.png" 
     },
 	{  
-		"name":       "Pathiri",   
+		"name":       "Pathiri", 
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/pathiri.png" 
     },
 	{  
-		"name":       "Nei Pathiri",   
+		"name":       "Nei Pathiri",  
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/nei_pathiri.png" 
     },
 	{  
-		"name":       "Rava Upma",   
+		"name":       "Rava Upma",  
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/rava_upma.png" 
     },
 	{  
-		"name":       "Wheat Upma",   
+		"name":       "Wheat Upma",  
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/wheat_upma.png" 
     },
 	{  
-		"name":       "Semiya",   
+		"name":       "Semiya", 
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/semiya.png" 
     },
@@ -116,7 +135,8 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/vathal_kulambu.png" 
     },
 	{  
-		"name":       "Ulli Theeyal",   
+		"name":       "Ulli Theeyal", 
+		"search":     yes,
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ulli_theeyal.png" 
     },
