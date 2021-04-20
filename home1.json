@@ -3,78 +3,78 @@
 	{  
 		"name":       "Indian",   
 		"type":      ["main"],   
-		"url":       "https://dev-gpsoft.github.io/recipes.github.io/indian.json",
-		"image":     "https://dev-gpsoft.github.io/recipes.github.io/ni.png" 
+		"url":       "https://dev-gpsoft.github.io/home/recipes.github.io/indian.json",
+		"image":     "https://dev-gpsoft.github.io/home/recipes.github.io/home/ni.png" 
     },
 	{  
 		"name":       "Chinese",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/chinese.png" 
+		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/chinese.png" 
     },
 	{  
 		"name":       "Italian",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/italian.png" 
+		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/italian.png" 
     },
 	{  
 		"name":       "British",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/british.png" 
+		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/british.png" 
     },
 	{  
 		"name":       "French",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/french.png" 
+		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/french.png" 
     },
 	{  
 		"name":       "American",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/american.png" 
+		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/american.png" 
     },
 	{  
 		"name":       "Mexican",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/mexican.png" 
+		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/mexican.png" 
     },
 	{  
 		"name":       "Arabic",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/arabic.png" 
+		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/arabic.png" 
     },
 	{  
 		"name":       "Japanese",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/japanese.png" 
+		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/japanese.png" 
     },
 	{  
 		"name":       "Thai",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/thai.png" 
+		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/thai.png" 
     },
 	{  
 		"name":       "Malaysian",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/malaysian.png" 
+		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/malaysian.png" 
     },
 	{  
 		"name":       "Spanish",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/spainsh.png" 
+		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/spainsh.png" 
     },
 	{  
 		"name":       "Korean",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/korean.png" 
+		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/korean.png" 
     },
 	{  
 		"name":       "Pakistani",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/pakistani.png" 
+		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/pakistani.png" 
     },
 	{  
 		"name":       "Latino",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/latino.png" 
+		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/latino.png" 
     }
 	
 ]
