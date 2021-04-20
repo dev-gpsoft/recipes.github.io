@@ -1,0 +1,27 @@
+[
+	{  
+		"name":       "Idli",
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idli.png" 
+    },
+	{
+		"name":       "Rava Idli", 
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/rava_idli.png" 
+    },
+	{
+		"name":       "Idli Fry", 
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idli_fry.png" 
+    },
+	{
+		"name":       "Idli Upma", 
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idli_upma.png" 
+    }
+	
+]

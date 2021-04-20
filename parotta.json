@@ -20,8 +20,28 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/killi_parotta.png" 
     },
 	{  
+		"name":       "Vechu Parotta",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/vechu_parotta.png" 
+    },
+	{  
 		"name":       "Kothu Parotta",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kothu_parotta.png" 
+    },
+	{  
+		"name":       "Chicken Kothu",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_kothu.png" 
+    },
+	{  
+		"name":       "Egg Kothu",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/egg_kothu.png" 
+    },
+	{  
+		"name":       "Mutton Kothu",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/mutton_kothu.png" 
     }
 ]

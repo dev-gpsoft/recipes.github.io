@@ -38,15 +38,9 @@
     },
 	{  
 		"name":       "Idli",
-		"search":     "yes",
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/idli.json",
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idli.png" 
-    },
-	{
-		"name":       "Rava Idli", 
-		"search":     "yes",
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/rava_idli.png" 
     },
 	{  
 		"name":       "Paniyaram",
