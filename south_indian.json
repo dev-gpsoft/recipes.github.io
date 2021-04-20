@@ -189,6 +189,6 @@
 		"name":       "Squid",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
-    },
+    }
 	
 ]
