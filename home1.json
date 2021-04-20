@@ -4,77 +4,77 @@
 		"name":       "Indian",   
 		"type":      ["main"],   
 		"url":       "https://dev-gpsoft.github.io/recipes.github.io/indian.json",
-		"image":     "assets/images/ni.png" 
+		"image":     "https://dev-gpsoft.github.io/recipes.github.io/ni.png" 
     },
 	{  
 		"name":       "Chinese",   
 		"type":      ["main"],   
-		"image":    "assets/images/chinese.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/chinese.png" 
     },
 	{  
 		"name":       "Italian",   
 		"type":      ["main"],   
-		"image":    "assets/images/italian.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/italian.png" 
     },
 	{  
 		"name":       "British",   
 		"type":      ["main"],   
-		"image":    "assets/images/british.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/british.png" 
     },
 	{  
 		"name":       "French",   
 		"type":      ["main"],   
-		"image":    "assets/images/french.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/french.png" 
     },
 	{  
 		"name":       "American",   
 		"type":      ["main"],   
-		"image":    "assets/images/american.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/american.png" 
     },
 	{  
 		"name":       "Mexican",   
 		"type":      ["main"],   
-		"image":    "assets/images/mexican.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/mexican.png" 
     },
 	{  
 		"name":       "Arabic",   
 		"type":      ["main"],   
-		"image":    "assets/images/arabic.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/arabic.png" 
     },
 	{  
 		"name":       "Japanese",   
 		"type":      ["main"],   
-		"image":    "assets/images/japanese.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/japanese.png" 
     },
 	{  
 		"name":       "Thai",   
 		"type":      ["main"],   
-		"image":    "assets/images/thai.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/thai.png" 
     },
 	{  
 		"name":       "Malaysian",   
 		"type":      ["main"],   
-		"image":    "assets/images/malaysian.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/malaysian.png" 
     },
 	{  
 		"name":       "Spanish",   
 		"type":      ["main"],   
-		"image":    "assets/images/spainsh.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/spainsh.png" 
     },
 	{  
 		"name":       "Korean",   
 		"type":      ["main"],   
-		"image":    "assets/images/korean.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/korean.png" 
     },
 	{  
 		"name":       "Pakistani",   
 		"type":      ["main"],   
-		"image":    "assets/images/pakistani.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/pakistani.png" 
     },
 	{  
 		"name":       "Latino",   
 		"type":      ["main"],   
-		"image":    "assets/images/latino.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/latino.png" 
     }
 	
 ]
