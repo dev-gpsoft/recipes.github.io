@@ -3,78 +3,78 @@
 	{  
 		"name":       "Indian",   
 		"type":      ["main"],   
-		"url":       "https://dev-gpsoft.github.io/home/recipes.github.io/indian.json",
-		"image":     "https://dev-gpsoft.github.io/home/recipes.github.io/home/ni.png" 
+		"url":       "https://dev-gpsoft.github.io/assets/home/recipes.github.io/indian.json",
+		"image":     "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/ni.png" 
     },
 	{  
 		"name":       "Chinese",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/chinese.png" 
+		"image":    "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/chinese.png" 
     },
 	{  
 		"name":       "Italian",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/italian.png" 
+		"image":    "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/italian.png" 
     },
 	{  
 		"name":       "British",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/british.png" 
+		"image":    "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/british.png" 
     },
 	{  
 		"name":       "French",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/french.png" 
+		"image":    "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/french.png" 
     },
 	{  
 		"name":       "American",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/american.png" 
+		"image":    "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/american.png" 
     },
 	{  
 		"name":       "Mexican",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/mexican.png" 
+		"image":    "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/mexican.png" 
     },
 	{  
 		"name":       "Arabic",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/arabic.png" 
+		"image":    "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/arabic.png" 
     },
 	{  
 		"name":       "Japanese",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/japanese.png" 
+		"image":    "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/japanese.png" 
     },
 	{  
 		"name":       "Thai",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/thai.png" 
+		"image":    "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/thai.png" 
     },
 	{  
 		"name":       "Malaysian",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/malaysian.png" 
+		"image":    "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/malaysian.png" 
     },
 	{  
 		"name":       "Spanish",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/spainsh.png" 
+		"image":    "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/spainsh.png" 
     },
 	{  
 		"name":       "Korean",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/korean.png" 
+		"image":    "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/korean.png" 
     },
 	{  
 		"name":       "Pakistani",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/pakistani.png" 
+		"image":    "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/pakistani.png" 
     },
 	{  
 		"name":       "Latino",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/home/recipes.github.io/home/latino.png" 
+		"image":    "https://dev-gpsoft.github.io/assets/home/recipes.github.io/assets/home/latino.png" 
     }
 	
 ]
