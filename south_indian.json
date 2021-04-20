@@ -169,32 +169,32 @@
 	{  
 		"name":       "Fish Sides",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/fish_fry.png" 
     },
 	{  
 		"name":       "Prawn",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/prawn.png" 
     },
 	{  
 		"name":       "Crab",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/crab.png" 
     },
 	{  
 		"name":       "Beef",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/beef.png" 
     },
 	{  
 		"name":       "Pork",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/pork.png" 
     },
 	{  
 		"name":       "Squid",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/squid.png" 
     }
 	
 ]
