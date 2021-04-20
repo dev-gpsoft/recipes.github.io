@@ -27,6 +27,11 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/savory.png" 
     },
 	{  
+		"name":       "Traditional",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ayurvedic.png" 
+    },
+	{  
 		"name":       "Juices",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/juice.png" 
