@@ -151,20 +151,19 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_sides.png" 
     },
 	{  
-		"name":       "Fish Curry",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/fish_curry.png" 
-    },
-	{  
 		"name":       "Mutton Gravy",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/mutton_curry.png" 
     },
-	
 	{  
 		"name":       "Mutton Sides",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/mutton_sides.png" 
+    },
+	{  
+		"name":       "Fish Curry",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/fish_curry.png" 
     },
 	{  
 		"name":       "Fish Sides",   
