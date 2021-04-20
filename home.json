@@ -1,80 +1,35 @@
 [
 	
 	{  
-		"name":       "Indian",   
+		"name":       "South Indian",   
 		"type":      ["main"],   
-		"url":       "https://dev-gpsoft.github.io/recipes.github.io/indian.json",
-		"image":     "assets/images/ni.png" 
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/south_indian.json",
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/si.png" 
     },
 	{  
-		"name":       "Chinese",   
+		"name":       "North Indian",   
 		"type":      ["main"],   
-		"image":    "assets/images/chinese.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ni.png" 
     },
 	{  
-		"name":       "Italian",   
+		"name":       "Tea",   
 		"type":      ["main"],   
-		"image":    "assets/images/italian.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/tea.png" 
     },
 	{  
-		"name":       "British",   
+		"name":       "Snack",   
 		"type":      ["main"],   
-		"image":    "assets/images/british.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/snack.png" 
     },
 	{  
-		"name":       "French",   
+		"name":       "Juices",   
 		"type":      ["main"],   
-		"image":    "assets/images/french.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/juice.png" 
     },
 	{  
-		"name":       "American",   
+		"name":       "Ice-Creams",   
 		"type":      ["main"],   
-		"image":    "assets/images/american.png" 
-    },
-	{  
-		"name":       "Mexican",   
-		"type":      ["main"],   
-		"image":    "assets/images/mexican.png" 
-    },
-	{  
-		"name":       "Arabic",   
-		"type":      ["main"],   
-		"image":    "assets/images/arabic.png" 
-    },
-	{  
-		"name":       "Japanese",   
-		"type":      ["main"],   
-		"image":    "assets/images/japanese.png" 
-    },
-	{  
-		"name":       "Thai",   
-		"type":      ["main"],   
-		"image":    "assets/images/thai.png" 
-    },
-	{  
-		"name":       "Malaysian",   
-		"type":      ["main"],   
-		"image":    "assets/images/malaysian.png" 
-    },
-	{  
-		"name":       "Spanish",   
-		"type":      ["main"],   
-		"image":    "assets/images/spainsh.png" 
-    },
-	{  
-		"name":       "Korean",   
-		"type":      ["main"],   
-		"image":    "assets/images/korean.png" 
-    },
-	{  
-		"name":       "Pakistani",   
-		"type":      ["main"],   
-		"image":    "assets/images/pakistani.png" 
-    },
-	{  
-		"name":       "Latino",   
-		"type":      ["main"],   
-		"image":    "assets/images/latino.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ice-cream.png" 
     }
 	
 ]
