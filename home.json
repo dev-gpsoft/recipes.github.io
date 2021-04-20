@@ -4,77 +4,77 @@
 		"name":       "Indian",   
 		"type":      ["main"],   
 		"url":       "https://dev-gpsoft.github.io/recipes.github.io/indian.json",
-		"image":     "assets/images/ni.png" 
+		"image":     "/assets/images/ni.png" 
     },
 	{  
 		"name":       "Chinese",   
 		"type":      ["main"],   
-		"image":    "assets/images/chinese.png" 
+		"image":    "/assets/images/chinese.png" 
     },
 	{  
 		"name":       "Italian",   
 		"type":      ["main"],   
-		"image":    "assets/images/italian.png" 
+		"image":    "/assets/images/italian.png" 
     },
 	{  
 		"name":       "British",   
 		"type":      ["main"],   
-		"image":    "assets/images/british.png" 
+		"image":    "/assets/images/british.png" 
     },
 	{  
 		"name":       "French",   
 		"type":      ["main"],   
-		"image":    "assets/images/french.png" 
+		"image":    "/assets/images/french.png" 
     },
 	{  
 		"name":       "American",   
 		"type":      ["main"],   
-		"image":    "assets/images/american.png" 
+		"image":    "/assets/images/american.png" 
     },
 	{  
 		"name":       "Mexican",   
 		"type":      ["main"],   
-		"image":    "assets/images/mexican.png" 
+		"image":    "/assets/images/mexican.png" 
     },
 	{  
 		"name":       "Arabic",   
 		"type":      ["main"],   
-		"image":    "assets/images/arabic.png" 
+		"image":    "/assets/images/arabic.png" 
     },
 	{  
 		"name":       "Japanese",   
 		"type":      ["main"],   
-		"image":    "assets/images/japanese.png" 
+		"image":    "/assets/images/japanese.png" 
     },
 	{  
 		"name":       "Thai",   
 		"type":      ["main"],   
-		"image":    "assets/images/thai.png" 
+		"image":    "/assets/images/thai.png" 
     },
 	{  
 		"name":       "Malaysian",   
 		"type":      ["main"],   
-		"image":    "assets/images/malaysian.png" 
+		"image":    "/assets/images/malaysian.png" 
     },
 	{  
 		"name":       "Spanish",   
 		"type":      ["main"],   
-		"image":    "assets/images/spainsh.png" 
+		"image":    "/assets/images/spainsh.png" 
     },
 	{  
 		"name":       "Korean",   
 		"type":      ["main"],   
-		"image":    "assets/images/korean.png" 
+		"image":    "/assets/images/korean.png" 
     },
 	{  
 		"name":       "Pakistani",   
 		"type":      ["main"],   
-		"image":    "assets/images/pakistani.png" 
+		"image":    "/assets/images/pakistani.png" 
     },
 	{  
 		"name":       "Latino",   
 		"type":      ["main"],   
-		"image":    "assets/images/latino.png" 
+		"image":    "/assets/images/latino.png" 
     }
 	
 ]
