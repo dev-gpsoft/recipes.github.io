@@ -1,0 +1,12 @@
+[
+	{  
+		"name":       "Andhra Brinjal Curry",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/andhra_brinjal_curry.png" 
+    },
+	{  
+		"name":       "Simple Brinjal Curry",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/brinjal_curry.png" 
+    }
+]

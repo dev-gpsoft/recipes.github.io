@@ -150,16 +150,22 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/green_peas_curry.png" 
     },
 	{  
-		"name":      "Tomato Curry", 
+		"name":      "Tomato Curries", 
 		"url":       "https://dev-gpsoft.github.io/recipes.github.io/tomato_curry.json",
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/tomato_curry.png" 
     },
 	{  
-		"name":      "Cauliflower Curry", 
+		"name":      "Cauliflower Curries", 
 		"url":       "https://dev-gpsoft.github.io/recipes.github.io/cauliflower.json",
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/cauliflower.png" 
+    },
+	{  
+		"name":      "Brinjal Curries", 
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/brinjal.json",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/brinjal.png" 
     },
 	{  
 		"name":       "Veg Sides",   
