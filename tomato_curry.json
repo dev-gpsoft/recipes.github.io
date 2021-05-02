@@ -1,0 +1,20 @@
+[
+	{  
+		"name":       "Tomato Curry",   
+		"type":      ["main"],   
+		"search":     "yes",
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/tomato_curry_sub.png" 
+    },
+	{  
+		"name":       "Thakali Thokku",   
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/thakali_thokku.png" 
+    },
+	{  
+		"name":       "Tomato Fry",   
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/tomato_fry.png"
+	}
+]

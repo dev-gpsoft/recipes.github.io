@@ -1,0 +1,12 @@
+[
+	{  
+		"name":       "Cauliflower Coconut Curry",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/cauliflower_cocunut_curry.png" 
+    },
+	{  
+		"name":       "Cauliflower Dry",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/cauliflower_dry.png" 
+    }
+]

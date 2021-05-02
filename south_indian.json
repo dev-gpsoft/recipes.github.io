@@ -144,6 +144,24 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/green_gram.png" 
     },
 	{  
+		"name":       "Green Peas Curry", 
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/green_peas_curry.png" 
+    },
+	{  
+		"name":      "Tomato Curry", 
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/tomato_curry.json",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/tomato_curry.png" 
+    },
+	{  
+		"name":      "Cauliflower Curry", 
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/cauliflower.json",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/cauliflower.png" 
+    },
+	{  
 		"name":       "Veg Sides",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/veg_sides.png" 
