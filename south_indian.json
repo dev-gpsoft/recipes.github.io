@@ -202,8 +202,9 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_sides.png" 
     },
 	{  
-		"name":       "Mutton Gravy",   
+		"name":       "Mutton Curry",   
 		"type":      ["main"],   
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/mutton_curry.json",
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/mutton_curry.png" 
     },
 	{  

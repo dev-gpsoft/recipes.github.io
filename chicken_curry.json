@@ -3,102 +3,83 @@
 	{  
 		"name":       "Chettinad Chicken Gravy",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idliyappam.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chettinad_chicken_gravy.png" 
     },
 	{  
-		"name":       "Chettinad Chicken Kulambu",   
+		"name":       "Chettinad Chicken Curry",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/idliyappam.png" 
-    },
-	{  
-		"name":       "Pallipalayam Chicken",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
-    },
-	{  
-		"name":       "Madras Pepper Chicken",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chettinad_chicken_curry.png" 
     },
 	{  
 		"name":       "Spicy Chicken Curry",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/semiya.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/spicy_chicken_curry.png" 
     },
 	{  
 		"name":       "Kongunadu Kozhi Kulambu",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kongunadu_chicken_curry.png" 
     },
 	{  
-		"name":       "Chicken Thani Kulambu",
+		"name":       "Erode Chicken Thani Kulambu",
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_thani_kulambu.png" 
     },
+	
 	{  
-		"name":       "Andhra Pepper Chicken",   
+		"name":       "Madras Chicken Curry",
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/wheat_puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/madras_chicken_curry.png" 
     },
+	
 	{  
-		"name":       "Andhra Green Chilli Chicken",   
+		"name":       "Andhra Style Green Chilli Chicken",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/appam.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/andhra_green_chicken_curry.png" 
     },
 	{  
 		"name":       "Chicken 555 Gravy",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/pathiri.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_555_gravy.png" 
     },
 	{  
 		"name":       "Kerala Chicken Gravy",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kerala_chicken_gravy.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kerala_chicken_curry.png" 
     },
 	{  
 		"name":       "Chicken Vindaloo",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/nei_pathiri.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_vindaloo.png" 
     },
 	{  
 		"name":       "Kerala Chicken Roast",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/rava_upma.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kerala_chicken_roast.png" 
     },
 	{  
 		"name":       "Kerala Chicken Stew",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kerala_chicken_stew.png" 
+    },
+	{  
+		"name":       "Malabar Chicken Curry",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/malabar_chicken_curry.png" 
     },
 	{  
 		"name":       "Kozhi Varutharachathu",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
-    },
-	{  
-		"name":       "Kozhi Varutharachathu",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kozhi_varutharachathu.png" 
     },
 	{  
 		"name":       "Coorg Gawti Chicken",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/wheat_upma.png" 
-    },
-	
-	{  
-		"name":       "Kundapura Koli Saaru",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/coorg_gawti_chicken.png" 
     },
 	{  
-		"name":       "Udupi Chicken curry",   
+		"name":       "Mangalorean Kori Gassi",   
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
-    },
-	{  
-		"name":       "Malabar Chicken Curry",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/mangalore_kori_gassi.png" 
     }
 ]

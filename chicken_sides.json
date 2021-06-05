@@ -4,6 +4,31 @@
 		"name":       "Kerala Chicken Fry",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kerala_chicken_fry.png" 
-    }
+    },
+	{  
+		"name":       "Chettinad Pepper Chicken",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chettinad_pepper_chicken.png" 
+    },
+	{  
+		"name":       "Chicken Chettinad",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_chettinad.png" 
+    },
+	{  
+		"name":       "Chicken 65",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_65.png" 
+    },
+	{  
+		"name":       "Pallipalayam Chicken",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/pallipalayam_chicken.png" 
+    },
+	{  
+		"name":       "Andhra Pepper Chicken",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/andhra_pepper_chicken.png" 
+    },
 	
 ]
