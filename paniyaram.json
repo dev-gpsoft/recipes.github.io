@@ -1,0 +1,12 @@
+[
+	{  
+		"name":       "Paniyaram",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/andhra_brinjal_curry.png" 
+    },
+	{  
+		"name":       "Rava Paniyaram",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/brinjal_curry.png" 
+    }
+]

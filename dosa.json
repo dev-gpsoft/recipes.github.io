@@ -37,6 +37,27 @@
 		"name":       "Neer Dosa",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/neer_dosa.png" 
+    },
+	{  
+		"name":       "Rava Dosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/rava_dosa.png" 
+    },
+	{  
+		"name":       "Nellikai(Amla) Dosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/nellikai_dosa.png" 
+    },
+	{  
+		"name":       "Wheat Dosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/wheat_dosa.png" 
+    },
+	{  
+		"name":       "Illan Dosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/illan_dosa.png" 
     }
+	
 	
 ]

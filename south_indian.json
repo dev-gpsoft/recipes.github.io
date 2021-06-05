@@ -75,16 +75,17 @@
     },
 	{  
 		"name":       "Puttu",
-		"search":     "yes",
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/puttu.json",
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
     },
 	{  
-		"name":       "Wheat Puttu",  
-		"search":     "yes",
+		"name":       "Kappa",
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/kappa.json",
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/wheat_puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
     },
+	
 	{  
 		"name":       "Pathiri", 
 		"search":     "yes",

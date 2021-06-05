@@ -1,0 +1,44 @@
+[
+	{  
+		"name":       "Arri Puttu",  
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+    },
+	{  
+		"name":       "Wheat Puttu",  
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/wheat_puttu.png" 
+    },
+	{  
+		"name":       "Ragi Puttu",  
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ragi_puttu.png" 
+    },
+	{  
+		"name":       "Matta Rice Puttu",  
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/matta_rice_puttu.png" 
+    },
+	{  
+		"name":       "Chicken Puttu",  
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_puttu.png" 
+    },
+	{  
+		"name":       "Beaf Puttu",  
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/beaf_puttu.png" 
+    },
+	{  
+		"name":       "Chakka Puttu",  
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chakka_puttu.png" 
+    }
+]

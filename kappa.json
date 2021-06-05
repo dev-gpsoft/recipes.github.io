@@ -1,0 +1,39 @@
+[
+	{  
+		"name":       "Kappa",  
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+    },
+	{  
+		"name":       "Chicken Kappa Biriyani",  
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+    },
+	{  
+		"name":       "Beaf Kappa Biriyani",  
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+    },
+	{  
+		"name":       "Kappa Meen Curry",  
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+    },
+	{  
+		"name":       "Kappa Chicken Curry",  
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+    },
+	{  
+		"name":       "Kappa Beaf Curry",  
+		"search":     "yes",
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+    }
+	
+]
