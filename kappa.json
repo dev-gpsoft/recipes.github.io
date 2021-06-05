@@ -3,37 +3,37 @@
 		"name":       "Kappa",  
 		"search":     "yes",
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kappa_kattan_chai.png" 
     },
 	{  
 		"name":       "Chicken Kappa Biriyani",  
 		"search":     "yes",
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_kappa_biriyani.png" 
     },
 	{  
 		"name":       "Beaf Kappa Biriyani",  
 		"search":     "yes",
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/beaf_kappa_biriyani.png" 
     },
 	{  
 		"name":       "Kappa Meen Curry",  
 		"search":     "yes",
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kappa_meen_curry.png" 
     },
 	{  
 		"name":       "Kappa Chicken Curry",  
 		"search":     "yes",
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kappa_chicken_curry.png" 
     },
 	{  
 		"name":       "Kappa Beaf Curry",  
 		"search":     "yes",
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kappa_beaf_curry.png" 
     }
 	
 ]
