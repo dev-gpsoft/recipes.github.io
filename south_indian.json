@@ -83,7 +83,7 @@
 		"name":       "Kappa",
 		"url":       "https://dev-gpsoft.github.io/recipes.github.io/kappa.json",
 		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/puttu.png" 
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kappa.png" 
     },
 	
 	{  
@@ -191,11 +191,13 @@
     },
 	{  
 		"name":       "Chicken Curry",   
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/chicken_curry.json",
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_curry.png" 
     },
 	{  
 		"name":       "Chicken Sides",   
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/chicken_sides.json",
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/chicken_sides.png" 
     },

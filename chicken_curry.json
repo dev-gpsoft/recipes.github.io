@@ -51,6 +51,11 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/pathiri.png" 
     },
 	{  
+		"name":       "Kerala Chicken Gravy",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kerala_chicken_gravy.png" 
+    },
+	{  
 		"name":       "Chicken Vindaloo",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/nei_pathiri.png" 
@@ -95,5 +100,5 @@
 		"name":       "Malabar Chicken Curry",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/paniyaram.png" 
-    },
+    }
 ]
