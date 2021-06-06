@@ -18,7 +18,7 @@
     },
 	{  
 		"name":       "Snack",
-		"url":       "https://dev-gpsoft.github.io/recipes.github.io/southindian_snacks.json",
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/south_indian_snacks.json",
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/snack.png" 
     },	
