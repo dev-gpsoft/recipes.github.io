@@ -1,0 +1,37 @@
+[
+	{  
+		"name":       "Pazham Poori",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/pazham_poori.png" 
+    },
+	{  
+		"name":       "Pazham Pulungiyathu",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/Pazham_pulungiyathu.png" 
+    },
+	{  
+		"name":       "Kumbilappam",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kumbilappam.png" 
+    },
+	{  
+		"name":       "Mixture",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/mixture.png" 
+    },
+	{  
+		"name":       "Murukku",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/murukku.png" 
+    },
+	{  
+		"name":       "Achappam",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/achappam.png" 
+    },
+	{  
+		"name":       "Kuli Paniyaram",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kuli_paniyaram.png" 
+    }
+]
