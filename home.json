@@ -23,7 +23,8 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/snack.png" 
     },	
 	{  
-		"name":       "Savory",   
+		"name":       "Savory",  
+		"url":       "https://dev-gpsoft.github.io/recipes.github.io/savory.json",
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/savory.png" 
     },

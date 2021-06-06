@@ -5,6 +5,51 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/pazham_poori.png" 
     },
 	{  
+		"name":       "Ullundha/Medhu Vada",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/snack.png" 
+    },
+	{  
+		"name":       "Parupu Vada",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/parupuvada.png" 
+    },
+	{  
+		"name":       "Milagai/Chilli Bajji",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/milagai_bajji.png" 
+    },
+	{  
+		"name":       "Valakkai Bajji",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/valakai_bajji.png" 
+    },
+	{  
+		"name":       "Samosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/samosa.png" 
+    },
+	{  
+		"name":       "Punjabi Samosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/punjabi_samosa.png" 
+    },
+	{  
+		"name":       "Onion Pakkoda",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/onion_pakkoda.png" 
+    },
+	{  
+		"name":       "Ulli Vada ( Onion Bajji)",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ulli_vada.png" 
+    },
+	{  
+		"name":       "Punjabi Samosa",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/onion_pakkoda.png" 
+    },
+	{  
 		"name":       "Pazham Pulungiyathu",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/Pazham_pulungiyathu.png" 
@@ -13,21 +58,6 @@
 		"name":       "Kumbilappam",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kumbilappam.png" 
-    },
-	{  
-		"name":       "Mixture",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/mixture.png" 
-    },
-	{  
-		"name":       "Murukku",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/murukku.png" 
-    },
-	{  
-		"name":       "Achappam",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/achappam.png" 
     },
 	{  
 		"name":       "Kuli Paniyaram",   

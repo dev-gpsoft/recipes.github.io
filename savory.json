@@ -1,0 +1,63 @@
+[
+
+	{  
+		"name":       "Mixture",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/mixture.png" 
+    },
+	{  
+		"name":       "Murukku",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/murukku.png" 
+    },
+	{  
+		"name":       "Achappam",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/achappam.png" 
+    },
+	{  
+		"name":       "Shankarpali",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/shankarpali.png" 
+    },
+	{  
+		"name":       "Ring Murukku",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ring_murukku.png" 
+    },
+	{  
+		"name":       "Arisi/Rice Murukku",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/arisi_muruku.png" 
+    },
+	{  
+		"name":       "Suthu Murukku",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/suthu_muruku.png" 
+    },
+	{  
+		"name":       "Kai Murukku",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/kai_muruku.png" 
+    },
+	{  
+		"name":       "Papdi",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/papdi.png" 
+    },
+	{  
+		"name":       "Crispy Twister Suji",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/twister_suji.png" 
+    },
+	{  
+		"name":       "Namki/Namak para",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/namak_para.png" 
+    },
+	{  
+		"name":       "Ganthiya",   
+		"type":      ["main"],   
+		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ganthiya.png" 
+    }
+]
