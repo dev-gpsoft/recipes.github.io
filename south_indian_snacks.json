@@ -40,15 +40,11 @@
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/onion_pakkoda.png" 
     },
 	{  
-		"name":       "Ulli Vada ( Onion Bajji)",   
+		"name":       "Ulli/Onion Vada)",   
 		"type":      ["main"],   
 		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/ulli_vada.png" 
     },
-	{  
-		"name":       "Punjabi Samosa",   
-		"type":      ["main"],   
-		"image":    "https://dev-gpsoft.github.io/recipes.github.io/assets/onion_pakkoda.png" 
-    },
+
 	{  
 		"name":       "Pazham Pulungiyathu",   
 		"type":      ["main"],   
